@@ -8543,6 +8543,9 @@ h1, h2, h3, h4, h5,
               color: #fff;
               font-size: 50px; } }
           @media (max-width: 767.98px) {
+            .owl-carousel.home-slider{
+              height: 550px !important;
+            }
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
               height:355px !important;
             }
